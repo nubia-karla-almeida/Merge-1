@@ -4,3 +4,4 @@
 
 
 # Análise descritiva
+summary(dados)
