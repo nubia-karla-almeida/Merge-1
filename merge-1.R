@@ -5,3 +5,4 @@ dados = read.csv("dados.csv", header=TRUE, sep = ";")
 
 
 # Análise descritiva
+summary(dados)
